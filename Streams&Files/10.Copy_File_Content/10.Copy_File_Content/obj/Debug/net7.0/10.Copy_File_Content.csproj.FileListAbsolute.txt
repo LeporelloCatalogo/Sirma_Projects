@@ -1,0 +1,15 @@
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\10.Copy_File_Content\10.Copy_File_Content\bin\Debug\net7.0\10.Copy_File_Content.exe
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\10.Copy_File_Content\10.Copy_File_Content\bin\Debug\net7.0\10.Copy_File_Content.deps.json
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\10.Copy_File_Content\10.Copy_File_Content\bin\Debug\net7.0\10.Copy_File_Content.runtimeconfig.json
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\10.Copy_File_Content\10.Copy_File_Content\bin\Debug\net7.0\10.Copy_File_Content.dll
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\10.Copy_File_Content\10.Copy_File_Content\bin\Debug\net7.0\10.Copy_File_Content.pdb
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\10.Copy_File_Content\10.Copy_File_Content\obj\Debug\net7.0\10.Copy_File_Content.csproj.AssemblyReference.cache
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\10.Copy_File_Content\10.Copy_File_Content\obj\Debug\net7.0\10.Copy_File_Content.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\10.Copy_File_Content\10.Copy_File_Content\obj\Debug\net7.0\10.Copy_File_Content.AssemblyInfoInputs.cache
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\10.Copy_File_Content\10.Copy_File_Content\obj\Debug\net7.0\10.Copy_File_Content.AssemblyInfo.cs
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\10.Copy_File_Content\10.Copy_File_Content\obj\Debug\net7.0\10.Copy_File_Content.csproj.CoreCompileInputs.cache
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\10.Copy_File_Content\10.Copy_File_Content\obj\Debug\net7.0\10.Copy_File_Content.dll
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\10.Copy_File_Content\10.Copy_File_Content\obj\Debug\net7.0\refint\10.Copy_File_Content.dll
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\10.Copy_File_Content\10.Copy_File_Content\obj\Debug\net7.0\10.Copy_File_Content.pdb
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\10.Copy_File_Content\10.Copy_File_Content\obj\Debug\net7.0\10.Copy_File_Content.genruntimeconfig.cache
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\10.Copy_File_Content\10.Copy_File_Content\obj\Debug\net7.0\ref\10.Copy_File_Content.dll

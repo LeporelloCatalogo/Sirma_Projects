@@ -1,0 +1,15 @@
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\12.Serialize_Custom_Object_List\12.Serialize_Custom_Object_List\bin\Debug\net7.0\12.Serialize_Custom_Object_List.exe
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\12.Serialize_Custom_Object_List\12.Serialize_Custom_Object_List\bin\Debug\net7.0\12.Serialize_Custom_Object_List.deps.json
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\12.Serialize_Custom_Object_List\12.Serialize_Custom_Object_List\bin\Debug\net7.0\12.Serialize_Custom_Object_List.runtimeconfig.json
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\12.Serialize_Custom_Object_List\12.Serialize_Custom_Object_List\bin\Debug\net7.0\12.Serialize_Custom_Object_List.dll
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\12.Serialize_Custom_Object_List\12.Serialize_Custom_Object_List\bin\Debug\net7.0\12.Serialize_Custom_Object_List.pdb
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\12.Serialize_Custom_Object_List\12.Serialize_Custom_Object_List\obj\Debug\net7.0\12.Serialize_Custom_Object_List.csproj.AssemblyReference.cache
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\12.Serialize_Custom_Object_List\12.Serialize_Custom_Object_List\obj\Debug\net7.0\12.Serialize_Custom_Object_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\12.Serialize_Custom_Object_List\12.Serialize_Custom_Object_List\obj\Debug\net7.0\12.Serialize_Custom_Object_List.AssemblyInfoInputs.cache
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\12.Serialize_Custom_Object_List\12.Serialize_Custom_Object_List\obj\Debug\net7.0\12.Serialize_Custom_Object_List.AssemblyInfo.cs
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\12.Serialize_Custom_Object_List\12.Serialize_Custom_Object_List\obj\Debug\net7.0\12.Serialize_Custom_Object_List.csproj.CoreCompileInputs.cache
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\12.Serialize_Custom_Object_List\12.Serialize_Custom_Object_List\obj\Debug\net7.0\12.Serialize_Custom_Object_List.dll
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\12.Serialize_Custom_Object_List\12.Serialize_Custom_Object_List\obj\Debug\net7.0\refint\12.Serialize_Custom_Object_List.dll
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\12.Serialize_Custom_Object_List\12.Serialize_Custom_Object_List\obj\Debug\net7.0\12.Serialize_Custom_Object_List.pdb
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\12.Serialize_Custom_Object_List\12.Serialize_Custom_Object_List\obj\Debug\net7.0\12.Serialize_Custom_Object_List.genruntimeconfig.cache
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\12.Serialize_Custom_Object_List\12.Serialize_Custom_Object_List\obj\Debug\net7.0\ref\12.Serialize_Custom_Object_List.dll

@@ -1,0 +1,15 @@
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\11.Serialize_and_Deserialize_Map\11.Serialize_and_Deserialize_Map\obj\Debug\net7.0\11.Serialize_and_Deserialize_Map.csproj.AssemblyReference.cache
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\11.Serialize_and_Deserialize_Map\11.Serialize_and_Deserialize_Map\obj\Debug\net7.0\11.Serialize_and_Deserialize_Map.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\11.Serialize_and_Deserialize_Map\11.Serialize_and_Deserialize_Map\obj\Debug\net7.0\11.Serialize_and_Deserialize_Map.AssemblyInfoInputs.cache
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\11.Serialize_and_Deserialize_Map\11.Serialize_and_Deserialize_Map\obj\Debug\net7.0\11.Serialize_and_Deserialize_Map.AssemblyInfo.cs
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\11.Serialize_and_Deserialize_Map\11.Serialize_and_Deserialize_Map\obj\Debug\net7.0\11.Serialize_and_Deserialize_Map.csproj.CoreCompileInputs.cache
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\11.Serialize_and_Deserialize_Map\11.Serialize_and_Deserialize_Map\bin\Debug\net7.0\11.Serialize_and_Deserialize_Map.exe
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\11.Serialize_and_Deserialize_Map\11.Serialize_and_Deserialize_Map\bin\Debug\net7.0\11.Serialize_and_Deserialize_Map.deps.json
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\11.Serialize_and_Deserialize_Map\11.Serialize_and_Deserialize_Map\bin\Debug\net7.0\11.Serialize_and_Deserialize_Map.runtimeconfig.json
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\11.Serialize_and_Deserialize_Map\11.Serialize_and_Deserialize_Map\bin\Debug\net7.0\11.Serialize_and_Deserialize_Map.dll
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\11.Serialize_and_Deserialize_Map\11.Serialize_and_Deserialize_Map\bin\Debug\net7.0\11.Serialize_and_Deserialize_Map.pdb
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\11.Serialize_and_Deserialize_Map\11.Serialize_and_Deserialize_Map\obj\Debug\net7.0\11.Serialize_and_Deserialize_Map.dll
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\11.Serialize_and_Deserialize_Map\11.Serialize_and_Deserialize_Map\obj\Debug\net7.0\refint\11.Serialize_and_Deserialize_Map.dll
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\11.Serialize_and_Deserialize_Map\11.Serialize_and_Deserialize_Map\obj\Debug\net7.0\11.Serialize_and_Deserialize_Map.pdb
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\11.Serialize_and_Deserialize_Map\11.Serialize_and_Deserialize_Map\obj\Debug\net7.0\11.Serialize_and_Deserialize_Map.genruntimeconfig.cache
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\11.Serialize_and_Deserialize_Map\11.Serialize_and_Deserialize_Map\obj\Debug\net7.0\ref\11.Serialize_and_Deserialize_Map.dll
