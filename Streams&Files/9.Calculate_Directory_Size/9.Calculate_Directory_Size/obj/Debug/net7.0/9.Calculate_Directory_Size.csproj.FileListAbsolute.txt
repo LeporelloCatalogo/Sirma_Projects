@@ -1,0 +1,15 @@
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\9.Calculate_Directory_Size\9.Calculate_Directory_Size\bin\Debug\net7.0\9.Calculate_Directory_Size.exe
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\9.Calculate_Directory_Size\9.Calculate_Directory_Size\bin\Debug\net7.0\9.Calculate_Directory_Size.deps.json
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\9.Calculate_Directory_Size\9.Calculate_Directory_Size\bin\Debug\net7.0\9.Calculate_Directory_Size.runtimeconfig.json
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\9.Calculate_Directory_Size\9.Calculate_Directory_Size\bin\Debug\net7.0\9.Calculate_Directory_Size.dll
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\9.Calculate_Directory_Size\9.Calculate_Directory_Size\bin\Debug\net7.0\9.Calculate_Directory_Size.pdb
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\9.Calculate_Directory_Size\9.Calculate_Directory_Size\obj\Debug\net7.0\9.Calculate_Directory_Size.csproj.AssemblyReference.cache
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\9.Calculate_Directory_Size\9.Calculate_Directory_Size\obj\Debug\net7.0\9.Calculate_Directory_Size.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\9.Calculate_Directory_Size\9.Calculate_Directory_Size\obj\Debug\net7.0\9.Calculate_Directory_Size.AssemblyInfoInputs.cache
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\9.Calculate_Directory_Size\9.Calculate_Directory_Size\obj\Debug\net7.0\9.Calculate_Directory_Size.AssemblyInfo.cs
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\9.Calculate_Directory_Size\9.Calculate_Directory_Size\obj\Debug\net7.0\9.Calculate_Directory_Size.csproj.CoreCompileInputs.cache
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\9.Calculate_Directory_Size\9.Calculate_Directory_Size\obj\Debug\net7.0\9.Calculate_Directory_Size.dll
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\9.Calculate_Directory_Size\9.Calculate_Directory_Size\obj\Debug\net7.0\refint\9.Calculate_Directory_Size.dll
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\9.Calculate_Directory_Size\9.Calculate_Directory_Size\obj\Debug\net7.0\9.Calculate_Directory_Size.pdb
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\9.Calculate_Directory_Size\9.Calculate_Directory_Size\obj\Debug\net7.0\9.Calculate_Directory_Size.genruntimeconfig.cache
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\9.Calculate_Directory_Size\9.Calculate_Directory_Size\obj\Debug\net7.0\ref\9.Calculate_Directory_Size.dll

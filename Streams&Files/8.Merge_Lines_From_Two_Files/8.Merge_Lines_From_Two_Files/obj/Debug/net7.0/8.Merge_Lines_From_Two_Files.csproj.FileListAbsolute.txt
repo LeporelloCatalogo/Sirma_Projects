@@ -1,0 +1,15 @@
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\8.Merge_Lines_From_Two_Files\8.Merge_Lines_From_Two_Files\bin\Debug\net7.0\8.Merge_Lines_From_Two_Files.exe
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\8.Merge_Lines_From_Two_Files\8.Merge_Lines_From_Two_Files\bin\Debug\net7.0\8.Merge_Lines_From_Two_Files.deps.json
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\8.Merge_Lines_From_Two_Files\8.Merge_Lines_From_Two_Files\bin\Debug\net7.0\8.Merge_Lines_From_Two_Files.runtimeconfig.json
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\8.Merge_Lines_From_Two_Files\8.Merge_Lines_From_Two_Files\bin\Debug\net7.0\8.Merge_Lines_From_Two_Files.dll
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\8.Merge_Lines_From_Two_Files\8.Merge_Lines_From_Two_Files\bin\Debug\net7.0\8.Merge_Lines_From_Two_Files.pdb
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\8.Merge_Lines_From_Two_Files\8.Merge_Lines_From_Two_Files\obj\Debug\net7.0\8.Merge_Lines_From_Two_Files.csproj.AssemblyReference.cache
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\8.Merge_Lines_From_Two_Files\8.Merge_Lines_From_Two_Files\obj\Debug\net7.0\8.Merge_Lines_From_Two_Files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\8.Merge_Lines_From_Two_Files\8.Merge_Lines_From_Two_Files\obj\Debug\net7.0\8.Merge_Lines_From_Two_Files.AssemblyInfoInputs.cache
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\8.Merge_Lines_From_Two_Files\8.Merge_Lines_From_Two_Files\obj\Debug\net7.0\8.Merge_Lines_From_Two_Files.AssemblyInfo.cs
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\8.Merge_Lines_From_Two_Files\8.Merge_Lines_From_Two_Files\obj\Debug\net7.0\8.Merge_Lines_From_Two_Files.csproj.CoreCompileInputs.cache
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\8.Merge_Lines_From_Two_Files\8.Merge_Lines_From_Two_Files\obj\Debug\net7.0\8.Merge_Lines_From_Two_Files.dll
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\8.Merge_Lines_From_Two_Files\8.Merge_Lines_From_Two_Files\obj\Debug\net7.0\refint\8.Merge_Lines_From_Two_Files.dll
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\8.Merge_Lines_From_Two_Files\8.Merge_Lines_From_Two_Files\obj\Debug\net7.0\8.Merge_Lines_From_Two_Files.pdb
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\8.Merge_Lines_From_Two_Files\8.Merge_Lines_From_Two_Files\obj\Debug\net7.0\8.Merge_Lines_From_Two_Files.genruntimeconfig.cache
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\8.Merge_Lines_From_Two_Files\8.Merge_Lines_From_Two_Files\obj\Debug\net7.0\ref\8.Merge_Lines_From_Two_Files.dll

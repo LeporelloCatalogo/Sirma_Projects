@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.Calculate_Directory_Size", "9.Calculate_Directory_Size\9.Calculate_Directory_Size.csproj", "{11B4AB80-1C90-4B39-B1C1-C59EBC1B4C36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11B4AB80-1C90-4B39-B1C1-C59EBC1B4C36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11B4AB80-1C90-4B39-B1C1-C59EBC1B4C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11B4AB80-1C90-4B39-B1C1-C59EBC1B4C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11B4AB80-1C90-4B39-B1C1-C59EBC1B4C36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D83A5FEC-E262-4A8A-8803-351BC117FE36}
+	EndGlobalSection
+EndGlobal
