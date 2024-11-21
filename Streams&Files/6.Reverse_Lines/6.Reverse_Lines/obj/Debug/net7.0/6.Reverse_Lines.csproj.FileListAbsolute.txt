@@ -1,0 +1,15 @@
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\6.Reverse_Lines\6.Reverse_Lines\bin\Debug\net7.0\6.Reverse_Lines.exe
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\6.Reverse_Lines\6.Reverse_Lines\bin\Debug\net7.0\6.Reverse_Lines.deps.json
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\6.Reverse_Lines\6.Reverse_Lines\bin\Debug\net7.0\6.Reverse_Lines.runtimeconfig.json
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\6.Reverse_Lines\6.Reverse_Lines\bin\Debug\net7.0\6.Reverse_Lines.dll
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\6.Reverse_Lines\6.Reverse_Lines\bin\Debug\net7.0\6.Reverse_Lines.pdb
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\6.Reverse_Lines\6.Reverse_Lines\obj\Debug\net7.0\6.Reverse_Lines.csproj.AssemblyReference.cache
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\6.Reverse_Lines\6.Reverse_Lines\obj\Debug\net7.0\6.Reverse_Lines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\6.Reverse_Lines\6.Reverse_Lines\obj\Debug\net7.0\6.Reverse_Lines.AssemblyInfoInputs.cache
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\6.Reverse_Lines\6.Reverse_Lines\obj\Debug\net7.0\6.Reverse_Lines.AssemblyInfo.cs
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\6.Reverse_Lines\6.Reverse_Lines\obj\Debug\net7.0\6.Reverse_Lines.csproj.CoreCompileInputs.cache
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\6.Reverse_Lines\6.Reverse_Lines\obj\Debug\net7.0\6.Reverse_Lines.dll
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\6.Reverse_Lines\6.Reverse_Lines\obj\Debug\net7.0\refint\6.Reverse_Lines.dll
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\6.Reverse_Lines\6.Reverse_Lines\obj\Debug\net7.0\6.Reverse_Lines.pdb
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\6.Reverse_Lines\6.Reverse_Lines\obj\Debug\net7.0\6.Reverse_Lines.genruntimeconfig.cache
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\6.Reverse_Lines\6.Reverse_Lines\obj\Debug\net7.0\ref\6.Reverse_Lines.dll

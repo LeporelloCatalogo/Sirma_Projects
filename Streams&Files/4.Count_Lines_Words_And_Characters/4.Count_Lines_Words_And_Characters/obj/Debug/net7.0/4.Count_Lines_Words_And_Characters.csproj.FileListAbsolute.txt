@@ -1,0 +1,16 @@
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\4.Count_Lines_Words_And_Characters\4.Count_Lines_Words_And_Characters\bin\Debug\net7.0\4.Count_Lines_Words_And_Characters.exe
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\4.Count_Lines_Words_And_Characters\4.Count_Lines_Words_And_Characters\bin\Debug\net7.0\4.Count_Lines_Words_And_Characters.deps.json
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\4.Count_Lines_Words_And_Characters\4.Count_Lines_Words_And_Characters\bin\Debug\net7.0\4.Count_Lines_Words_And_Characters.runtimeconfig.json
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\4.Count_Lines_Words_And_Characters\4.Count_Lines_Words_And_Characters\bin\Debug\net7.0\4.Count_Lines_Words_And_Characters.dll
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\4.Count_Lines_Words_And_Characters\4.Count_Lines_Words_And_Characters\bin\Debug\net7.0\4.Count_Lines_Words_And_Characters.pdb
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\4.Count_Lines_Words_And_Characters\4.Count_Lines_Words_And_Characters\obj\Debug\net7.0\4.Count_Lines_Words_And_Characters.csproj.AssemblyReference.cache
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\4.Count_Lines_Words_And_Characters\4.Count_Lines_Words_And_Characters\obj\Debug\net7.0\4.Count_Lines_Words_And_Characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\4.Count_Lines_Words_And_Characters\4.Count_Lines_Words_And_Characters\obj\Debug\net7.0\4.Count_Lines_Words_And_Characters.AssemblyInfoInputs.cache
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\4.Count_Lines_Words_And_Characters\4.Count_Lines_Words_And_Characters\obj\Debug\net7.0\4.Count_Lines_Words_And_Characters.AssemblyInfo.cs
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\4.Count_Lines_Words_And_Characters\4.Count_Lines_Words_And_Characters\obj\Debug\net7.0\4.Count_Lines_Words_And_Characters.csproj.CoreCompileInputs.cache
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\4.Count_Lines_Words_And_Characters\4.Count_Lines_Words_And_Characters\obj\Debug\net7.0\4.Count_Lines_Words_And_Characters.dll
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\4.Count_Lines_Words_And_Characters\4.Count_Lines_Words_And_Characters\obj\Debug\net7.0\refint\4.Count_Lines_Words_And_Characters.dll
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\4.Count_Lines_Words_And_Characters\4.Count_Lines_Words_And_Characters\obj\Debug\net7.0\4.Count_Lines_Words_And_Characters.pdb
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\4.Count_Lines_Words_And_Characters\4.Count_Lines_Words_And_Characters\obj\Debug\net7.0\4.Count_Lines_Words_And_Characters.genruntimeconfig.cache
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\4.Count_Lines_Words_And_Characters\4.Count_Lines_Words_And_Characters\obj\Debug\net7.0\ref\4.Count_Lines_Words_And_Characters.dll
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\4.Count_Lines_Words_And_Characters\4.Count_Lines_Words_And_Characters\bin\Debug\net7.0\input.txt
