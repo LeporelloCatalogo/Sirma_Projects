@@ -1,0 +1,15 @@
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\1.Word_Lengths\1.Word_Lengths\obj\Debug\net7.0\1.Word_Lengths.csproj.AssemblyReference.cache
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\1.Word_Lengths\1.Word_Lengths\obj\Debug\net7.0\1.Word_Lengths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\1.Word_Lengths\1.Word_Lengths\obj\Debug\net7.0\1.Word_Lengths.AssemblyInfoInputs.cache
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\1.Word_Lengths\1.Word_Lengths\obj\Debug\net7.0\1.Word_Lengths.AssemblyInfo.cs
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\1.Word_Lengths\1.Word_Lengths\obj\Debug\net7.0\1.Word_Lengths.csproj.CoreCompileInputs.cache
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\1.Word_Lengths\1.Word_Lengths\bin\Debug\net7.0\1.Word_Lengths.exe
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\1.Word_Lengths\1.Word_Lengths\bin\Debug\net7.0\1.Word_Lengths.deps.json
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\1.Word_Lengths\1.Word_Lengths\bin\Debug\net7.0\1.Word_Lengths.runtimeconfig.json
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\1.Word_Lengths\1.Word_Lengths\bin\Debug\net7.0\1.Word_Lengths.dll
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\1.Word_Lengths\1.Word_Lengths\bin\Debug\net7.0\1.Word_Lengths.pdb
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\1.Word_Lengths\1.Word_Lengths\obj\Debug\net7.0\1.Word_Lengths.dll
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\1.Word_Lengths\1.Word_Lengths\obj\Debug\net7.0\refint\1.Word_Lengths.dll
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\1.Word_Lengths\1.Word_Lengths\obj\Debug\net7.0\1.Word_Lengths.pdb
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\1.Word_Lengths\1.Word_Lengths\obj\Debug\net7.0\1.Word_Lengths.genruntimeconfig.cache
+C:\Users\Leo_N\source\Streams&Files_Sirma\Exercises\1.Word_Lengths\1.Word_Lengths\obj\Debug\net7.0\ref\1.Word_Lengths.dll
